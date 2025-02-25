@@ -7,7 +7,7 @@ Something about me:
 
 My Stack
 - PHP 8 (Laravel 12)
-- JS (NodeJS)
+- JS (Node.js)
 - MySQL & PostgreSQL
 - RabbitMQ & Apache Kafka
 - Docker
