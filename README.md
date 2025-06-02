@@ -12,7 +12,6 @@ My Stack
 - RabbitMQ & Apache Kafka
 - Docker
 
-This is my project
 <a href="https://github.com/RadiusProjectKrd">@RadiusProject</a>
 
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ult1mateXPHP&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
